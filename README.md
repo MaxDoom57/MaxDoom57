@@ -2,7 +2,7 @@
 
 -👀 I’m interested in coding and software engineering.
 
--🌱 I’m currently learning software engineering as part of my BICT degree at Sri Jayewardenepura University.
+-🌱 I’m currently learning my BICT degree at Sri Jayewardenepura University.
 
 -💞️ I’m looking to collaborate on exciting software projects.
 
