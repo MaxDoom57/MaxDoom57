@@ -16,8 +16,11 @@
 - 📫 How to reach me: **sandaruwanr57@gmail.com**
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love exploring the latest trends in technology and finding new ways to solve problems with code!
-</p>
 
+<br>
+</p>
+<hr>
+<br>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
