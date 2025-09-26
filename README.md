@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  I'm Sandaruwan</h1>
 
 <div align="center">
-  <picture><img src = "[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif](https://i.pinimg.com/originals/8a/83/c8/8a83c8978f1b376321fde613d460e88d.gif)" width = 100px></picture>
+  <picture><img src = "https://i.pinimg.com/originals/8a/83/c8/8a83c8978f1b376321fde613d460e88d.gif" width = 100px></picture>
 </div>
 
 <h5 align="center">" Programming is my life's code-turning challenges into solutions and dreams into reality." </h5>
