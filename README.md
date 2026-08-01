@@ -1,7 +1,13 @@
-# Hi there, I'm Sandaruwan Rathnayaka 👋
-### Full-stack Software Engineer | .NET & React Specialist
+<h1 align="center">Hi there, I'm Sandaruwan Rathnayaka 👋</h1>
+<h3 align="center">Full-stack Software Engineer | .NET & React Specialist</h3>
 
-> *"Programming is my life's code—turning challenges into solutions and dreams into reality."*
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmg2f/giphy.gif" width="600" alt="Coding GIF" />
+</p>
+
+<p align="center">
+  <em>"Programming is my life's code-turning challenges into solutions and dreams into reality."</em>
+</p>
 
 ---
 
@@ -16,36 +22,30 @@
 
 ### 💻 Tech Stack & Tools
 
-#### Backend & Architecture
-![.NET](https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-#### Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### Databases & Tools
-![MSSQL](https://img.shields.io/badge/MSSQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,react,nextjs,js,ts,tailwind,html,css,express,postgres,mssql,docker,git,postman,vscode,visualstudio" />
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxDoom57&show_icons=true&theme=dark&hide_border=true" alt="Sandaruwan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxDoom57&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=MaxDoom57&show_icons=true&theme=dark&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MaxDoom57&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sandaruwan-rathnayaka)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandaruwanr57@gmail.com)
+
+<p align="left">
+  <a href="www.linkedin.com/in/sandaruwan-rathnayaka" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sandaruwanr57@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
